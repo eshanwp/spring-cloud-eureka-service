@@ -7,7 +7,7 @@ running on each port and IP address. Eureka Server is also known as Discovery Se
 http://localhost:8761/ in your web browser and you can find the Eureka Server running on the port 8761 as 
 shown below
 
-![alt text](https://github.com/eshanwp/spring-cloud-eureka-service/Screenshot_2018-11-23 Eureka.png)
+![alt text](https://github.com/eshanwp/spring-cloud-eureka-service/blob/master/eureka-service/img/Screenshot_2018-11-23%20Eureka.png)
 
 Following technologies being used
 
