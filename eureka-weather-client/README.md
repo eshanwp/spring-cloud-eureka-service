@@ -1,4 +1,4 @@
-🍃 Spring Cloud Eureka Client Example
+🍃 **Spring Cloud Eureka Client Example**
 
 In this example, describe the How to register the Spring Boot Micro service application
 into the Eureka Server. Before registering the application, please make sure Eureka Server is running on the 
